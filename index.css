@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+div button{
+  display: block;
+  margin-left: 50px;
+  margin-bottom: 20px;
+}
+input{
+    width: 300px;
+    height: 100px;
+    
+}
